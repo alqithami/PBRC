@@ -1,0 +1,173 @@
+Metadata-Version: 2.4
+Name: pbrc-repro
+Version: 0.1.0
+Summary: Reproducibility pipeline for PBRC (simulations + benchmark adapters)
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24
+Requires-Dist: pandas>=2.0
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: networkx>=3.1
+Requires-Dist: pyyaml>=6.0
+
+# PBRC Reproducibility Package (Simulation + Benchmark Adapters)
+
+This folder is a **self-contained, local reproducibility pipeline** for the paper:
+
+> *Preregistered Belief Revision Contracts (PBRC): a Logic-Based Protocol for Conformity-Resilient Multi-Agent Deliberation*
+
+It contains:
+
+1. **Fully runnable simulations (no LLM required)** that reproduce the *core theoretical predictions*:
+   - elimination of **social-only wrong-but-sure cascades** under PBRC enforcement;
+   - **token-sufficiency** / persuasion separation (token-equivalent events induce identical enforced updates);
+   - topology affects PBRC only via **token arrival times** (distance/diameter effects under flooding);
+   - **sound-but-incomplete routers** preserve safety but reduce liveness.
+   - ablations over the fallback dilution parameter $\lambda$ (safety vs epistemic conservatism);
+   - a DoS/cost stress test for token flooding (validation cost scaling and short-circuiting).
+
+2. **Benchmark adapters** (BenchForm, KAIROS) that let you run PBRC-enforced variants on real LLM MAS conformity benchmarks once you provide:
+   - model access (OpenAI / local vLLM / Ollama), and
+   - the benchmark repositories/datasets.
+
+> Important: This package includes **complete results for the simulation experiments** (already generated in `results/sim/`).
+> For LLM benchmarks, the package provides a complete *pipeline* (scripts + adapters), but the results depend on your model/API and compute.
+
+---
+
+## Quick start (simulations)
+
+### 1) Create an environment
+```bash
+python -m venv .venv
+source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
+pip install -r requirements.txt
+```
+
+### 2) Run all simulation experiments (re-generate all figures + CSVs)
+```bash
+python -m pbrc.experiments.run_all --out results/sim --seed 0
+```
+
+Outputs:
+- CSV summaries in `results/sim/*.csv`
+- Figures in `results/sim/*.png`
+- A short aggregate report `results/sim/REPORT.md`
+
+---
+
+## Benchmarks (LLM-required)
+
+### BenchForm (ICLR 2025 Oral)
+Official repo: https://github.com/Zhiyuan-Weng/BenchForm  (see README for `eval.py`/`analysis.py`)  
+
+Reproducible download (pinned commits):
+```bash
+bash scripts/download_benchmarks.sh
+```
+
+Then follow BenchForm's README for environment setup, e.g.:
+```bash
+cd BenchForm
+pip install -r requirements.txt
+export OPENAI_API_KEY="..."   # if using OpenAI
+cd ..
+```
+
+PBRC adapter (from this repo):
+```bash
+python -m pbrc.benchmarks.benchform_pbrc \
+  --benchform_root /path/to/BenchForm \
+  --model gpt-4o \
+  --out results/benchform_pbrc \
+  --mode social_only
+```
+
+Modes:
+- `social_only`: PBRC contract forbids belief revision without external tokens (maximally conformity-resilient).
+- `tool_tokens`: enables a **tool-token plugin** (deterministic verifier for some BBH tasks, or custom validators).
+
+> The adapter emits JSONL traces with certificates and can be post-processed by BenchForm's `analysis.py`.
+
+
+
+#### PBRC social_only evaluation via post-processing (recommended)
+BenchForm already produces both **RAW** and social-protocol outputs (e.g., `trust`, `doubt`).
+PBRC social_only enforcement can therefore be applied **without re-running the LLM**:
+
+1) Run BenchForm normally to generate RAW + social results:
+```bash
+python eval.py --model gpt-4o --save_path benchform_results
+```
+
+2) Apply PBRC social_only post-processing (reject any flip relative to RAW):
+```bash
+python -m pbrc.benchmarks.benchform_socialonly_postprocess \
+  --raw benchform_results/<RAW_FILE>.json \
+  --social benchform_results/<SOCIAL_FILE>.json \
+  --out benchform_results_pbrc/<PBRC_FILE>.json
+```
+
+Then analyze with BenchForm's `analysis.py` on the PBRC-processed file.
+
+
+### KAIROS (ICLR 2026)
+Official repo: https://github.com/declare-lab/KAIROS  
+Dataset: https://huggingface.co/datasets/declare-lab/KAIROS_EVAL
+
+Reproducible download (pinned commits):
+```bash
+bash scripts/download_benchmarks.sh
+```
+
+Then follow KAIROS's README for environment setup, e.g.:
+```bash
+cd KAIROS
+pip install -r requirements.txt
+pip install -e .
+cd ..
+```
+
+PBRC adapter (from this repo):
+```bash
+python -m pbrc.benchmarks.kairos_pbrc \
+  --kairos_root /path/to/KAIROS \
+  --subject_model <vllm_endpoint_or_openai_model> \
+  --out results/kairos_pbrc \
+  --mode social_only
+```
+
+
+
+#### PBRC social_only evaluation via post-processing (recommended)
+KAIROS evaluation already computes **RAW** predictions and then evaluates social protocols.
+PBRC social_only can be applied as a post-processing step:
+
+```bash
+python -m pbrc.benchmarks.kairos_socialonly_postprocess \
+  --raw eval_results/<MODEL_DIR>/<RAW_JSON>.json \
+  --social eval_results/<MODEL_DIR>/<PROTOCOL_JSON>.json \
+  --out eval_results_pbrc/<MODEL_DIR>/<PBRC_JSON>.json
+```
+
+
+---
+
+## Reproduced results (simulation)
+
+The repository ships with **pre-generated** simulation results in:
+- `results/sim/exp1_social_cascades.csv` + `exp1_social_cascades.png`
+- `results/sim/exp2_token_sufficiency.csv`
+- `results/sim/exp3_topology_token_flow.csv` + figure
+- `results/sim/exp4_incomplete_router.csv` + figure
+- `results/sim/exp1c_ablation_lambda.csv` + figures
+- `results/sim/exp5_cost_dos.csv` + figure
+
+To regenerate exactly, run the command in Quick start.
+
+---
+
+## License note
+This package does **not** bundle BenchForm or KAIROS datasets/code. It provides adapters and instructions.
+Please respect the upstream benchmark licenses.
+
