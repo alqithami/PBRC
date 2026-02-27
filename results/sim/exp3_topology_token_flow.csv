@@ -1,0 +1,6 @@
+graph,n,m_edges,diameter,observed_coverage_time,matches
+ring,20,20,10,10,1
+ER(p=0.2),20,40,4,4,1
+star,20,19,2,2,1
+complete,20,190,1,1,1
+grid(4x5),20,31,7,7,1

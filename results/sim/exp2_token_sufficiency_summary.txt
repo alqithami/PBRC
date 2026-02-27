@@ -1,0 +1,4 @@
+Trials: 2000
+Accepted (nonempty-witness) steps: 1487
+Mismatched updates across token-equivalent events: 0
+Mismatch rate: 0.000000

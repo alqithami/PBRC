@@ -1,0 +1,3001 @@
+graph,model,all_wrong_sure,all_correct_sure,mean_conf,frac_wrong
+ring,baseline,0.0,0.0,0.9992921098615669,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5436267561954413,0.4
+ring,baseline,0.0,0.0,0.9996458879082027,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5447378902506911,0.65
+ring,baseline,0.0,0.0,0.970923442174047,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5424269864213713,0.5
+ring,baseline,0.0,0.0,0.9875994584049309,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5403045585630983,0.65
+ring,baseline,0.0,0.0,0.9755010613151704,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5427069075050028,0.55
+ring,baseline,0.0,0.0,0.9813397426175217,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5424280293843282,0.45
+ring,baseline,0.0,0.0,0.9782334939707523,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5341374828318528,0.4
+ring,baseline,0.0,0.0,0.9889600211698653,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5432672620125671,0.6
+ring,baseline,0.0,0.0,0.9582501573653461,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5334436087135266,0.65
+ring,baseline,0.0,0.0,0.988247164202981,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5470183795284158,0.55
+ring,baseline,0.0,0.0,0.9698253779357178,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.538772636679249,0.4
+ring,baseline,0.0,0.0,0.9455812216804793,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5372536878663448,0.3
+ring,baseline,0.0,0.0,0.9961299527316427,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.53655798802523,0.5
+ring,baseline,0.0,0.0,0.9998011931660086,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5341073867087489,0.4
+ring,baseline,0.0,0.0,0.9633182430721279,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5354430058059653,0.55
+ring,baseline,0.0,0.0,0.9801203710119635,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5416615645974915,0.5
+ring,baseline,0.0,0.0,0.9979312727703868,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5469314427213793,0.6
+ring,baseline,0.0,0.0,0.9995202898648147,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5431320350625446,0.3
+ring,baseline,0.0,0.0,0.9592235684765308,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5353943331052924,0.55
+ring,baseline,0.0,0.0,0.9943464654453565,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5505413022399457,0.4
+ring,baseline,1.0,0.0,0.9999999916264789,1.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5378527748436511,0.65
+ring,baseline,0.0,0.0,0.9759266168172284,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5376799955558852,0.45
+ring,baseline,0.0,0.0,0.9778961796925069,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5485698385702825,0.25
+ring,baseline,0.0,0.0,0.9625647762529219,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5384384322739556,0.1
+ring,baseline,0.0,0.0,0.9989938337571355,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5417523342489393,0.4
+ring,baseline,0.0,0.0,0.9943721428434079,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5413883376231772,0.6
+ring,baseline,0.0,0.0,0.9770108070512586,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5405295208751287,0.3
+ring,baseline,0.0,0.0,0.9583675284985664,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5399201234299714,0.6
+ring,baseline,0.0,0.0,0.9796264030071807,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5520330329638402,0.45
+ring,baseline,0.0,0.0,0.9761451393268012,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5383985017543332,0.6
+ring,baseline,0.0,0.0,0.9737775429900323,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5499224601926271,0.65
+ring,baseline,0.0,0.0,0.9987084509257539,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5370557641121938,0.65
+ring,baseline,0.0,0.0,0.9985270364223184,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5419131067234795,0.25
+ring,baseline,0.0,0.0,0.9998328135646594,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5454333965000451,0.6
+ring,baseline,0.0,0.0,0.9995192563922315,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5422105958940127,0.3
+ring,baseline,0.0,0.0,0.9560201438787399,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5317389302788225,0.5
+ring,baseline,0.0,0.0,0.9881681185750196,0.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5466454785927823,0.35
+ring,baseline,0.0,0.0,0.9859332795817043,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5335850637239643,0.55
+ring,baseline,0.0,0.0,0.9819605674433312,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5422982740373734,0.35
+ring,baseline,0.0,0.0,0.9921773505583784,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5210241218412127,0.6
+ring,baseline,0.0,0.0,0.9977474071883055,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5470888556125406,0.4
+ring,baseline,0.0,0.0,0.93963670079465,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5384633853766128,0.65
+ring,baseline,0.0,0.0,0.9991242840738849,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5544472148516143,0.55
+ring,baseline,0.0,0.0,0.9900611068252914,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5349702294409225,0.4
+ring,baseline,0.0,0.0,0.9995392926183783,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5530079550835184,0.4
+ring,baseline,0.0,0.0,0.9901055034451064,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5572566170615614,0.7
+ring,baseline,0.0,0.0,0.9984913961442791,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5328861208993828,0.5
+ring,baseline,0.0,0.0,0.9863575303462406,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5664796367802019,0.6
+ring,baseline,0.0,0.0,0.9998887933840402,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5496214388528029,0.75
+ring,baseline,0.0,0.0,0.9994875109355759,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5455930623169712,0.45
+ring,baseline,0.0,0.0,0.9549934402043881,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5366161848835664,0.45
+ring,baseline,0.0,0.0,0.9974571414112274,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5539591851559863,0.45
+ring,baseline,0.0,0.0,0.9736308112940412,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5350094960937313,0.4
+ring,baseline,0.0,0.0,0.9999470673236601,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5449064390332212,0.25
+ring,baseline,0.0,0.0,0.9627463379030565,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5317598903056936,0.5
+ring,baseline,0.0,0.0,0.9960610006195367,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5429023226719113,0.4
+ring,baseline,0.0,0.0,0.9996726250531284,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5438929624870499,0.55
+ring,baseline,0.0,0.0,0.9963284303243934,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5426709489808886,0.65
+ring,baseline,0.0,0.0,0.9761231767545983,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5393896954028043,0.4
+ring,baseline,0.0,0.0,0.9923355732178754,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5452188173668369,0.65
+ring,baseline,0.0,0.0,0.9730672682554848,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.546452389680611,0.6
+ring,baseline,0.0,0.0,0.9993637332149291,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5442581554695689,0.45
+ring,baseline,0.0,0.0,0.9986615284556064,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5413601678850779,0.4
+ring,baseline,0.0,0.0,0.985702431256736,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5451595195604172,0.55
+ring,baseline,0.0,0.0,0.9860908526732886,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5428489593874684,0.5
+ring,baseline,0.0,0.0,0.9999699441017862,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.541925323571807,0.45
+ring,baseline,0.0,0.0,0.9938587955339063,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5414827030867477,0.6
+ring,baseline,0.0,0.0,0.9857833686028961,0.05
+ring,PBRC (social-only fallback),0.0,0.0,0.5371990910733776,0.45
+ring,baseline,0.0,0.0,0.9963795790230219,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5481750063531433,0.5
+ring,baseline,0.0,0.0,0.9777944767136878,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.541576783639945,0.6
+ring,baseline,0.0,0.0,0.9801352488843456,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5492449096946401,0.55
+ring,baseline,0.0,0.0,0.9781192225311275,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5449235898443113,0.75
+ring,baseline,0.0,0.0,0.9694438754472323,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5418667763675794,0.55
+ring,baseline,0.0,0.0,0.9847902583249623,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5448371257144776,0.5
+ring,baseline,0.0,0.0,0.989969745969527,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5467147244166541,0.55
+ring,baseline,0.0,0.0,0.9959415037230034,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5506289896062357,0.35
+ring,baseline,0.0,0.0,0.9714213822276418,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5375282631155536,0.45
+ring,baseline,0.0,0.0,0.971143781122272,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5566968408749859,0.5
+ring,baseline,0.0,0.0,0.9995552163765031,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5422942825115209,0.3
+ring,baseline,0.0,0.0,0.9750966266359198,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5450114481528295,0.35
+ring,baseline,0.0,0.0,0.9728199855186679,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5450692228961361,0.65
+ring,baseline,0.0,0.0,0.9958147983819778,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5389146691065334,0.65
+ring,baseline,0.0,0.0,0.9995913455204617,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5329020832349474,0.55
+ring,baseline,0.0,0.0,0.9921060690234089,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5283628312422499,0.3
+ring,baseline,0.0,0.0,0.9655927221233596,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5517992936174612,0.5
+ring,baseline,0.0,0.0,0.9879109947595621,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5410776107117103,0.45
+ring,baseline,0.0,0.0,0.9865737919832277,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5526544375125729,0.5
+ring,baseline,0.0,0.0,0.9992000992423498,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5395203578695782,0.55
+ring,baseline,0.0,0.0,0.9988122407015382,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5616003362819394,0.7
+ring,baseline,0.0,0.0,0.9916716131106498,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5463085469658806,0.5
+ring,baseline,0.0,0.0,0.9888681161789261,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5355975569324857,0.45
+ring,baseline,0.0,0.0,0.9633865218513302,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.549966609750158,0.35
+ring,baseline,0.0,0.0,0.9770803079270693,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5458498515438032,0.3
+ring,baseline,0.0,0.0,0.9985245433059273,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5446919559045489,0.45
+ring,baseline,0.0,0.0,0.9757952947690809,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.541997022583266,0.65
+ring,baseline,0.0,0.0,0.987484282916598,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5351503169738832,0.7
+ring,baseline,0.0,0.0,0.9979827340103451,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5421081853774401,0.55
+ring,baseline,0.0,0.0,0.9994840384351736,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5401054747953891,0.75
+ring,baseline,0.0,0.0,0.9863063711217597,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5394428443280676,0.4
+ring,baseline,0.0,0.0,0.9420338224257057,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5384834588090347,0.5
+ring,baseline,0.0,0.0,0.9984624874972011,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5320406382711079,0.5
+ring,baseline,0.0,0.0,0.9832767407955846,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5459508468297727,0.35
+ring,baseline,0.0,0.0,0.9988266690597127,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5425117701834345,0.5
+ring,baseline,0.0,0.0,0.9798287980713374,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5314874456421138,0.6
+ring,baseline,0.0,0.0,0.9996239580146042,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5434669125456576,0.45
+ring,baseline,0.0,0.0,0.9993519525527736,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5364698316173497,0.45
+ring,baseline,0.0,0.0,0.9995263704961465,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5325738993493946,0.7
+ring,baseline,0.0,0.0,0.9954964021473026,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5457090637365731,0.5
+ring,baseline,0.0,0.0,0.985098727798789,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5372372802830379,0.5
+ring,baseline,0.0,0.0,0.9853342088860227,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5372950295709547,0.35
+ring,baseline,0.0,0.0,0.9978273825867084,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5455472675394282,0.6
+ring,baseline,0.0,0.0,0.9912083903861871,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5381130880241604,0.65
+ring,baseline,0.0,0.0,0.9671394585459699,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5413914167966165,0.4
+ring,baseline,0.0,0.0,0.9754994436557716,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.536846636155041,0.5
+ring,baseline,0.0,0.0,0.9871146566159574,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5422357536720115,0.6
+ring,baseline,0.0,0.0,0.9990833603743822,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5457576721213454,0.35
+ring,baseline,0.0,0.0,0.9990658679363602,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5429136508327164,0.45
+ring,baseline,0.0,0.0,0.9933891675381235,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5508870696205361,0.35
+ring,baseline,0.0,0.0,0.9982878436556044,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5442579424901345,0.6
+ring,baseline,0.0,0.0,0.9957141546460996,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.546770852598083,0.45
+ring,baseline,0.0,0.0,0.9989984222299183,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5469436918053568,0.55
+ring,baseline,0.0,0.0,0.9907343591035087,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5493703069639174,0.75
+ring,baseline,0.0,0.0,0.9669749887846786,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5486109301019674,0.55
+ring,baseline,0.0,0.0,0.9873104020679223,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5394450268504901,0.3
+ring,baseline,0.0,0.0,0.9804637913543697,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5502029361313936,0.45
+ring,baseline,0.0,0.0,0.9999607621340326,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5524230442471391,0.45
+ring,baseline,0.0,0.0,0.9945531181905632,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5395683216548119,0.5
+ring,baseline,0.0,0.0,0.9996358575360315,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5560308374153956,0.25
+ring,baseline,0.0,0.0,0.9995350852221346,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5502568721183438,0.5
+ring,baseline,0.0,0.0,0.9945515906843692,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5444122241715319,0.4
+ring,baseline,0.0,0.0,0.9983731253960973,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5420715392694276,0.4
+ring,baseline,0.0,0.0,0.9896484030990639,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5323829604907264,0.6
+ring,baseline,0.0,0.0,0.9917653228650309,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5575994534341288,0.55
+ring,baseline,0.0,0.0,0.9974054344284122,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5398905240061189,0.45
+ring,baseline,0.0,0.0,0.994364866276125,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5382956609997857,0.55
+ring,baseline,0.0,0.0,0.9976399023377084,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5480996292985236,0.65
+ring,baseline,0.0,0.0,0.9882052073664294,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5431006215033419,0.5
+ring,baseline,0.0,0.0,0.983822528801009,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.542001682597815,0.6
+ring,baseline,0.0,0.0,0.999301209852668,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5392024082450121,0.55
+ring,baseline,0.0,1.0,0.9999999999990002,0.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5340656798592761,0.35
+ring,baseline,0.0,0.0,0.9989091161787483,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5404206242048286,0.45
+ring,baseline,0.0,0.0,0.9997654901051771,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5438545390739964,0.45
+ring,baseline,0.0,0.0,0.9994170583270587,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5468124484182276,0.45
+ring,baseline,0.0,0.0,0.9995505181748173,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5391491469940345,0.55
+ring,baseline,0.0,0.0,0.9890253579064556,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5455814982972835,0.55
+ring,baseline,0.0,0.0,0.9865864968397297,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5404339219508517,0.5
+ring,baseline,0.0,0.0,0.9995337231888867,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5451690665026729,0.35
+ring,baseline,0.0,0.0,0.9995504363456629,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.546278938925713,0.6
+ring,baseline,0.0,0.0,0.997449373699955,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5475951063084243,0.45
+ring,baseline,0.0,0.0,0.9989207587892857,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5428026543932869,0.7
+ring,baseline,0.0,0.0,0.9778263953822751,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5459159053800395,0.65
+ring,baseline,0.0,0.0,0.9997479871347089,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5475257725510477,0.55
+ring,baseline,0.0,0.0,0.9990526456780318,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5376674106729166,0.6
+ring,baseline,0.0,0.0,0.9955882597703702,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5471489912622818,0.6
+ring,baseline,0.0,0.0,0.9998256929617553,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5533615122141639,0.45
+ring,baseline,0.0,0.0,0.9993606033246589,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5420158531755265,0.6
+ring,baseline,0.0,0.0,0.9708297777975993,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5344314379249006,0.35
+ring,baseline,0.0,0.0,0.995659135590764,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5464914630201717,0.45
+ring,baseline,0.0,0.0,0.999465345313993,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5392310949329321,0.1
+ring,baseline,0.0,0.0,0.9840504057199817,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5418506069830641,0.5
+ring,baseline,0.0,0.0,0.9851877743572596,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5390923049738636,0.35
+ring,baseline,0.0,0.0,0.9948173837601594,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5385497787608589,0.35
+ring,baseline,0.0,0.0,0.9945225576708875,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5502457065906095,0.45
+ring,baseline,0.0,0.0,0.9778387075605899,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5513873390019527,0.6
+ring,baseline,0.0,0.0,0.9745341233777358,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5287241114869382,0.4
+ring,baseline,0.0,0.0,0.9868568152560385,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5466979144030637,0.45
+ring,baseline,0.0,0.0,0.985108257937131,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.542354412800582,0.4
+ring,baseline,0.0,0.0,0.9727409351747245,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5559209020789918,0.45
+ring,baseline,0.0,0.0,0.979039581978672,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5474120795661318,0.5
+ring,baseline,0.0,0.0,0.9972347744461869,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5373691736546231,0.45
+ring,baseline,0.0,0.0,0.9805824432364085,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5421012966525925,0.5
+ring,baseline,0.0,0.0,0.9791595312116647,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5484506185117395,0.45
+ring,baseline,0.0,0.0,0.999639616009158,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5325912734492169,0.4
+ring,baseline,0.0,0.0,0.9970085904293573,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.541560080726647,0.5
+ring,baseline,0.0,0.0,0.992267072203781,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5405274228577067,0.3
+ring,baseline,0.0,0.0,0.9919611881005658,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5338399177557476,0.55
+ring,baseline,0.0,0.0,0.9950787014187122,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5327373401971969,0.45
+ring,baseline,0.0,0.0,0.9711138099664035,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5333247427014994,0.5
+ring,baseline,0.0,0.0,0.9891021674852547,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5486801226371644,0.6
+ring,baseline,0.0,0.0,0.9996680515797134,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5527038363896344,0.6
+ring,baseline,0.0,0.0,0.9681050156057653,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.543785954453573,0.35
+ring,baseline,0.0,0.0,0.9811215780646341,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5399912706245726,0.25
+ring,baseline,0.0,0.0,0.9950136845156857,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5377581630065055,0.7
+ring,baseline,0.0,0.0,0.9886064445187921,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5358753380652995,0.6
+ring,baseline,0.0,0.0,0.9998902507024274,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.550003942542072,0.55
+ring,baseline,0.0,1.0,0.9999820350610428,0.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5390699960124349,0.4
+ring,baseline,0.0,0.0,0.9878177543997462,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5317644699675159,0.35
+ring,baseline,0.0,0.0,0.996473963155284,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5535173352442009,0.5
+ring,baseline,0.0,0.0,0.9999426318636804,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5492303572119461,0.4
+ring,baseline,0.0,0.0,0.9633932159307974,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5433703081967293,0.5
+ring,baseline,0.0,0.0,0.9963741319402823,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5368188884198372,0.5
+ring,baseline,0.0,0.0,0.9996131020440517,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5486272194947573,0.55
+ring,baseline,0.0,0.0,0.9875677753355859,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5341688283001399,0.5
+ring,baseline,0.0,0.0,0.9994520109094573,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.550740619761147,0.5
+ring,baseline,0.0,0.0,0.9820384746437307,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.537736281530256,0.4
+ring,baseline,0.0,0.0,0.9629294682715935,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5471373514704523,0.55
+ring,baseline,0.0,0.0,0.9967124145314642,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.534559107513356,0.55
+ring,baseline,0.0,0.0,0.9976209458227754,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.542082355083303,0.4
+ring,baseline,0.0,0.0,0.9631748183867505,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5346975296996479,0.45
+ring,baseline,0.0,0.0,0.9887117162309172,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5275566481277042,0.55
+ring,baseline,0.0,0.0,0.9695937780949475,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.532870345182118,0.5
+ring,baseline,0.0,0.0,0.9773264749621688,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5279975864985171,0.4
+ring,baseline,0.0,0.0,0.9914635512522608,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5263353312177113,0.5
+ring,baseline,0.0,0.0,0.9819576223870765,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5549392720921913,0.75
+ring,baseline,0.0,0.0,0.9983256272754447,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5378644099104324,0.45
+ring,baseline,0.0,0.0,0.998348420031736,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5451441900169833,0.55
+ring,baseline,0.0,0.0,0.9964085129507605,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.544536623909524,0.5
+ring,baseline,0.0,0.0,0.9976333347680164,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5332731566758045,0.35
+ring,baseline,0.0,0.0,0.983365980328277,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5438695192135705,0.65
+ring,baseline,0.0,0.0,0.9928108190814001,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5360160084805716,0.45
+ring,baseline,0.0,0.0,0.9975101801622861,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5478368233097355,0.5
+ring,baseline,0.0,0.0,0.9972076859753575,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5427325347526882,0.6
+ring,baseline,0.0,0.0,0.9678351214099857,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5479943178051435,0.6
+ring,baseline,0.0,0.0,0.9922763445748725,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.54323492609386,0.35
+ring,baseline,0.0,0.0,0.9767774367103088,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.540811735080547,0.55
+ring,baseline,0.0,0.0,0.9977544292355274,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5371965306884022,0.3
+ring,baseline,0.0,0.0,0.9940044725174998,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5357394407132656,0.45
+ring,baseline,0.0,0.0,0.9936962901858102,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5586007475776086,0.55
+ring,baseline,0.0,0.0,0.9936015733684064,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5363169818327042,0.35
+ring,baseline,0.0,0.0,0.9658159745140937,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.542040165484822,0.45
+ring,baseline,0.0,0.0,0.9782162490158537,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5483757273062125,0.55
+ring,baseline,0.0,0.0,0.9986685221105468,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5414501548761764,0.45
+ring,baseline,0.0,0.0,0.997061500622137,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5465918194575946,0.45
+ring,baseline,0.0,0.0,0.9781825456596165,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5481722246202944,0.4
+ring,baseline,0.0,0.0,0.9987360108309241,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5409700723733256,0.5
+ring,baseline,0.0,0.0,0.9901939563599005,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5507827903190173,0.55
+ring,baseline,0.0,0.0,0.9974418585197432,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5355178384892195,0.7
+ring,baseline,0.0,0.0,0.9970038637156291,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5349265791079196,0.5
+ring,baseline,0.0,0.0,0.9980835529175518,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5414103720764033,0.5
+ring,baseline,0.0,0.0,0.9878068406553874,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5310135372819232,0.55
+ring,baseline,0.0,0.0,0.9875584626276759,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5447494589352332,0.6
+ring,baseline,0.0,0.0,0.9915432484341604,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5294601624384606,0.45
+ring,baseline,0.0,0.0,0.9990467558189217,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5441521213966162,0.65
+ring,baseline,0.0,0.0,0.9719596712824078,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5363329950784537,0.65
+ring,baseline,0.0,0.0,0.9728212368221717,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5320086828637525,0.7
+ring,baseline,0.0,0.0,0.9975170668398373,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5469791113480023,0.45
+ring,baseline,0.0,0.0,0.998880266092588,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5427300821859958,0.4
+ring,baseline,0.0,0.0,0.9987882856222917,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5588749448055248,0.55
+ring,baseline,0.0,0.0,0.9997320327264188,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5479219629363316,0.45
+ring,baseline,0.0,0.0,0.9866771048987875,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.542918246189479,0.4
+ring,baseline,0.0,0.0,0.9997673578859733,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.55382549582027,0.7
+ring,baseline,0.0,0.0,0.9980439834255138,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5400103416920622,0.6
+ring,baseline,0.0,0.0,0.9881717394240356,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5397057067443851,0.4
+ring,baseline,0.0,0.0,0.9885436200367227,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5363870069505391,0.4
+ring,baseline,0.0,0.0,0.9995427443163551,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5459673189568336,0.6
+ring,baseline,0.0,0.0,0.9975765926666526,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5484579145179789,0.5
+ring,baseline,0.0,0.0,0.9733187851882145,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5353091827386435,0.6
+ring,baseline,0.0,0.0,0.9990856585252317,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.544034824147809,0.65
+ring,baseline,0.0,0.0,0.9940068260071037,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5404002039318456,0.6
+ring,baseline,0.0,0.0,0.999066204572309,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5601300829504405,0.65
+ring,baseline,0.0,0.0,0.9993540642960979,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5497133125290362,0.55
+ring,baseline,0.0,0.0,0.9965973826584065,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5452160151397878,0.45
+ring,baseline,0.0,0.0,0.9991402374668026,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5381175494115695,0.7
+ring,baseline,0.0,0.0,0.9483496840958747,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5384488549721165,0.45
+ring,baseline,0.0,0.0,0.9880595246172227,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5433271865856537,0.35
+ring,baseline,0.0,0.0,0.9758879343672835,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5392042549924339,0.5
+ring,baseline,0.0,0.0,0.9854708243666529,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5346580566993399,0.25
+ring,baseline,0.0,0.0,0.9920366776230557,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5374598593765272,0.5
+ring,baseline,0.0,0.0,0.998016636717159,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.540443438366289,0.4
+ring,baseline,0.0,0.0,0.9989954618219942,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5357281369884188,0.3
+ring,baseline,0.0,0.0,0.9755402095980241,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.539390221508854,0.6
+ring,baseline,0.0,0.0,0.9787048365933815,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5360526797521927,0.65
+ring,baseline,0.0,0.0,0.9865358120007418,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5327885490924416,0.5
+ring,baseline,0.0,0.0,0.9485632985129753,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5427631325656519,0.55
+ring,baseline,0.0,0.0,0.9945628013797656,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5500414622779148,0.45
+ring,baseline,0.0,0.0,0.9782917553873738,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5428596451367315,0.55
+ring,baseline,0.0,0.0,0.9986597461491581,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5313968449968359,0.5
+ring,baseline,0.0,0.0,0.98533120466325,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5448029854017138,0.5
+ring,baseline,0.0,0.0,0.9984924804262485,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5354248890558068,0.7
+ring,baseline,0.0,0.0,0.9893403740065543,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5454744458697656,0.5
+ring,baseline,0.0,0.0,0.9962812530258051,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5361249329180434,0.65
+ring,baseline,0.0,0.0,0.9957385569922602,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5436553466617929,0.45
+ring,baseline,0.0,0.0,0.9990006745370893,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5460108620755156,0.5
+ring,baseline,0.0,0.0,0.999772030105156,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5505034141729843,0.5
+ring,baseline,0.0,0.0,0.9977975688876406,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5364372917872123,0.5
+ring,baseline,0.0,0.0,0.9988733200762706,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5429096463858127,0.6
+ring,baseline,0.0,0.0,0.9478781548680864,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5464391578054533,0.6
+ring,baseline,0.0,0.0,0.9834013858529032,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5412944343173254,0.45
+ring,baseline,0.0,0.0,0.9946874826198403,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5504949783410134,0.6
+ring,baseline,0.0,0.0,0.9551202710163407,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5394966188795032,0.35
+ring,baseline,0.0,0.0,0.9961976026407531,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5427146023945085,0.5
+ring,baseline,0.0,0.0,0.9894110348726199,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5468389536824426,0.6
+ring,baseline,0.0,0.0,0.9940997194249533,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5411449961242301,0.5
+ring,baseline,0.0,0.0,0.9933115519742074,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5387119500637034,0.4
+ring,baseline,0.0,0.0,0.9773824118410005,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5263006200078267,0.65
+ring,baseline,0.0,0.0,0.992839295286522,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5430775232116254,0.4
+ring,baseline,0.0,0.0,0.9835547018084354,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5333354337152112,0.55
+ring,baseline,0.0,0.0,0.9956908873686329,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5431349651865723,0.4
+ring,baseline,0.0,0.0,0.9890786113084478,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5414233848239288,0.5
+ring,baseline,0.0,0.0,0.9727906756016441,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5339433179230245,0.5
+ring,baseline,0.0,0.0,0.9680864218332305,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5502175153573965,0.35
+ring,baseline,0.0,0.0,0.9995223447152745,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5325581101825828,0.75
+ring,baseline,0.0,0.0,0.9934281538680253,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5358474604465642,0.6
+ring,baseline,0.0,0.0,0.9791118217037218,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5396037312048472,0.6
+ring,baseline,0.0,0.0,0.9889220492985892,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5353366550594766,0.45
+ring,baseline,0.0,0.0,0.9494332952905197,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5317541972674186,0.45
+ring,baseline,0.0,0.0,0.9994206683968152,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5414080111068144,0.4
+ring,baseline,0.0,0.0,0.9759780971219637,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5429248611310107,0.5
+ring,baseline,0.0,0.0,0.9485444691270619,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5381738052018824,0.6
+ring,baseline,0.0,0.0,0.9999420103651243,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5445616723862733,0.5
+ring,baseline,0.0,0.0,0.9619636853709632,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5427762573841025,0.5
+ring,baseline,0.0,0.0,0.9934864280366632,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5377037511215291,0.35
+ring,baseline,0.0,0.0,0.9835737106340707,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5404123419555356,0.6
+ring,baseline,0.0,0.0,0.9980587377115073,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5393311823065183,0.35
+ring,baseline,0.0,0.0,0.9972932960415417,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5498618005680799,0.6
+ring,baseline,0.0,0.0,0.9986220828642164,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.539094094414989,0.55
+ring,baseline,0.0,0.0,0.9756435807168019,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5418224788477286,0.6
+ring,baseline,0.0,0.0,0.9972682770418334,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5430297194618124,0.45
+ring,baseline,0.0,0.0,0.9980915410928389,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5457744851026567,0.45
+ring,baseline,0.0,0.0,0.9995791455227134,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5496095769584766,0.45
+ring,baseline,0.0,0.0,0.9861524014629988,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.538651491852715,0.55
+ring,baseline,0.0,0.0,0.9955282641421748,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5507979266857511,0.4
+ring,baseline,0.0,0.0,0.9994952984645679,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5487596573673637,0.6
+ring,baseline,0.0,0.0,0.9982196268162935,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.547998775715595,0.6
+ring,baseline,0.0,0.0,0.999993082595239,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.54788878924355,0.35
+ring,baseline,0.0,0.0,0.9981925346356044,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5376157084632232,0.35
+ring,baseline,0.0,0.0,0.995948937060392,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.541885599620571,0.65
+ring,baseline,0.0,0.0,0.9961010289814627,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5403538702842411,0.75
+ring,baseline,0.0,0.0,0.9985888491569771,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.537774171747126,0.6
+ring,baseline,0.0,0.0,0.9979411888428789,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5364682435414307,0.55
+ring,baseline,0.0,0.0,0.9980993043064617,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5329534288208185,0.5
+ring,baseline,0.0,0.0,0.9969524767920328,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5339894342143304,0.6
+ring,baseline,0.0,0.0,0.9786438435172145,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5487708432164856,0.45
+ring,baseline,0.0,0.0,0.9743241062171236,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5425998273811623,0.7
+ring,baseline,0.0,0.0,0.9985275134282373,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5438940108225239,0.45
+ring,baseline,0.0,0.0,0.9832291987732222,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5564345600594212,0.5
+ring,baseline,0.0,0.0,0.9995872232604247,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5395698499835928,0.65
+ring,baseline,0.0,0.0,0.9765335366509454,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.536620389450569,0.45
+ring,baseline,0.0,0.0,0.9894344205892383,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5471957946817539,0.4
+ring,baseline,0.0,0.0,0.9991067248682441,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5364253861034907,0.55
+ring,baseline,0.0,0.0,0.9947867376164808,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5358635467847981,0.6
+ring,baseline,0.0,0.0,0.9986161544898378,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.545164644666701,0.5
+ring,baseline,0.0,0.0,0.9493866739329924,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5443002902125548,0.65
+ring,baseline,0.0,0.0,0.9493065247833645,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5493975868741785,0.55
+ring,baseline,0.0,0.0,0.9534514945298097,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5357188692833124,0.5
+ring,baseline,0.0,0.0,0.9987626598063795,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.543924824147312,0.3
+ring,baseline,0.0,0.0,0.9659358248759352,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5322648644520621,0.3
+ring,baseline,0.0,0.0,0.9990125529483846,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5354435346918954,0.55
+ring,baseline,0.0,0.0,0.9883496075960595,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5468855150950808,0.45
+ring,baseline,0.0,0.0,0.9808672625082056,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5351991232347306,0.6
+ring,baseline,0.0,0.0,0.9361632331271739,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.545066344003158,0.45
+ring,baseline,0.0,0.0,0.9866131547614092,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5420957360241119,0.55
+ring,baseline,0.0,0.0,0.993189969742599,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5361880365012776,0.55
+ring,baseline,0.0,0.0,0.9649642349203663,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5458582705424517,0.6
+ring,baseline,0.0,0.0,0.9942841817089756,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5368645603866273,0.4
+ring,baseline,0.0,0.0,0.9811060416372145,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.548524118335994,0.45
+ring,baseline,0.0,0.0,0.9992155154472986,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5370268252628345,0.55
+ring,baseline,0.0,0.0,0.9717693644179262,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5450642147475382,0.65
+ring,baseline,0.0,0.0,0.9832517301121311,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5366807588587753,0.55
+ring,baseline,0.0,0.0,0.9927222321998606,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5397001150876855,0.7
+ring,baseline,0.0,0.0,0.9973813754673737,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5469218828815038,0.6
+ring,baseline,0.0,0.0,0.9936500586229634,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5531439719495388,0.5
+ring,baseline,0.0,0.0,0.9935232937655675,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5334281126704721,0.55
+ring,baseline,0.0,0.0,0.998065565879336,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5298245256374101,0.4
+ring,baseline,0.0,0.0,0.9963230275038246,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5531211559809923,0.55
+ring,baseline,0.0,0.0,0.9992891016665592,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.546663044912348,0.55
+ring,baseline,0.0,0.0,0.9883978099475297,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5453181885778637,0.5
+ring,baseline,0.0,0.0,0.9969613713949815,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5424644821310786,0.65
+ring,baseline,0.0,0.0,0.9977296161605589,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5468162500430499,0.45
+ring,baseline,0.0,0.0,0.9998575538661679,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5532467166583774,0.35
+ring,baseline,0.0,0.0,0.9798098720772872,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5533608498927823,0.55
+ring,baseline,0.0,0.0,0.9990913329833511,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5459075412231041,0.6
+ring,baseline,0.0,0.0,0.9965211941813518,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5376889209638663,0.35
+ring,baseline,0.0,0.0,0.9928205542757041,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5498407682176479,0.6
+ring,baseline,0.0,0.0,0.9999686848881337,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.543943269980763,0.4
+ring,baseline,0.0,0.0,0.9992422444669249,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5425415571547396,0.45
+ring,baseline,0.0,0.0,0.999640195530017,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5492477217552771,0.5
+ring,baseline,0.0,0.0,0.9996430520154979,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.545674885832236,0.3
+ring,baseline,0.0,0.0,0.9864655134714433,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5506126616342669,0.55
+ring,baseline,0.0,0.0,0.9967086129856225,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5344673375582775,0.65
+ring,baseline,0.0,0.0,0.9699248842973682,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5418392446207623,0.5
+ring,baseline,0.0,0.0,0.9785337742099035,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5496219594963373,0.45
+ring,baseline,0.0,0.0,0.9803386558104357,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5375003234780571,0.65
+ring,baseline,0.0,0.0,0.9998301718816786,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5597402014464536,0.4
+ring,baseline,0.0,0.0,0.9772208415847696,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5577668330805582,0.65
+ring,baseline,0.0,0.0,0.9847684582876696,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.528872242684543,0.45
+ring,baseline,0.0,0.0,0.9998179396334621,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5483918470443945,0.6
+ring,baseline,0.0,0.0,0.9778282526075881,1.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5293720828427008,0.65
+ring,baseline,0.0,0.0,0.972880112692813,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5465660041774653,0.6
+ring,baseline,0.0,0.0,0.9881495605676163,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5522495436813368,0.5
+ring,baseline,0.0,0.0,0.9987917619653862,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5409790626533135,0.45
+ring,baseline,0.0,0.0,0.984494030935301,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5369095747522356,0.45
+ring,baseline,0.0,0.0,0.9754452585541806,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5346671507785932,0.4
+ring,baseline,0.0,0.0,0.9761536610121346,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5449542615619903,0.7
+ring,baseline,0.0,0.0,0.9782102268879799,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.539022567706436,0.7
+ring,baseline,0.0,0.0,0.9944835312442001,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5518175524021294,0.4
+ring,baseline,0.0,0.0,0.9751222197623838,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.561052904362282,0.55
+ring,baseline,0.0,0.0,0.9997264029346061,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5383959527024262,0.6
+ring,baseline,0.0,0.0,0.978548328589798,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.536563972930302,0.25
+ring,baseline,0.0,0.0,0.9923185494327363,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5444507342888432,0.5
+ring,baseline,0.0,0.0,0.9952816635734836,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5401198328931175,0.6
+ring,baseline,0.0,0.0,0.9870831822103217,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5505844015723438,0.3
+ring,baseline,0.0,0.0,0.9567033825488551,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5434550051762342,0.6
+ring,baseline,0.0,0.0,0.9991705412346832,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5458759218324275,0.55
+ring,baseline,0.0,0.0,0.981627552959863,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5515018428113266,0.4
+ring,baseline,0.0,0.0,0.9997533159233981,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5425364878147946,0.45
+ring,baseline,0.0,0.0,0.9812051420842639,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5525445611438671,0.4
+ring,baseline,0.0,0.0,0.9967331383749244,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5427953231717778,0.55
+ring,baseline,0.0,0.0,0.9783181572408879,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5278862078291056,0.45
+ring,baseline,0.0,0.0,0.9827735224850797,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5476216250315938,0.35
+ring,baseline,0.0,0.0,0.9955013653530514,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5342895269950538,0.55
+ring,baseline,0.0,0.0,0.9703656027345599,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5521415514336463,0.45
+ring,baseline,0.0,0.0,0.9862690402334595,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5448191324157492,0.6
+ring,baseline,0.0,0.0,0.9750677629464812,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5379956944341425,0.45
+ring,baseline,0.0,0.0,0.9961641967996799,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5456557820184319,0.6
+ring,baseline,0.0,0.0,0.9982050076517002,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5378336347004505,0.6
+ring,baseline,0.0,0.0,0.977622201617691,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5425918402658482,0.3
+ring,baseline,0.0,0.0,0.9946994801039825,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5382740915873597,0.35
+ring,baseline,0.0,0.0,0.9985056078767443,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.539137960290337,0.55
+ring,baseline,0.0,0.0,0.9987159412062748,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5344228295410247,0.5
+ring,baseline,0.0,0.0,0.9991502962975103,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5379489669479995,0.5
+ring,baseline,0.0,0.0,0.988423090608566,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5446001220618171,0.55
+ring,baseline,0.0,0.0,0.9985173075055066,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.543851978336938,0.35
+ring,baseline,0.0,0.0,0.9979858827325646,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5498503361990368,0.55
+ring,baseline,0.0,0.0,0.9983971157761717,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5486733825317287,0.6
+ring,baseline,0.0,0.0,0.9998080033111615,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5422407793525733,0.4
+ring,baseline,0.0,0.0,0.9991804192071234,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5443821719016936,0.5
+ring,baseline,0.0,0.0,0.976551253791395,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5468819099219309,0.4
+ring,baseline,0.0,0.0,0.9902463789687225,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5355887597636915,0.5
+ring,baseline,0.0,0.0,0.9959426646632735,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5295568388785485,0.4
+ring,baseline,0.0,0.0,0.9920077119020266,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5382600373093009,0.6
+ring,baseline,0.0,0.0,0.9999093959584228,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5500326551335217,0.6
+ring,baseline,0.0,0.0,0.9788207714452483,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5357148157821692,0.65
+ring,baseline,0.0,0.0,0.9805302685509213,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5439670941427124,0.65
+ring,baseline,0.0,0.0,0.999921388966482,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5571799864946494,0.75
+ring,baseline,0.0,0.0,0.9551650868411548,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5572126506259774,0.35
+ring,baseline,0.0,0.0,0.9768185855959206,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5315037982744053,0.55
+ring,baseline,0.0,0.0,0.9751269059728676,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.557796407201094,0.45
+ring,baseline,0.0,0.0,0.9997068335713655,0.3
+ring,PBRC (social-only fallback),0.0,0.0,0.5504419624098001,0.4
+ring,baseline,0.0,0.0,0.9782150609675477,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5469669810830181,0.35
+ring,baseline,0.0,0.0,0.998119657416081,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5401562596844836,0.5
+ring,baseline,0.0,0.0,0.9994975423348554,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5381913476839773,0.6
+ring,baseline,0.0,0.0,0.9999238346143222,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5481491739400999,0.55
+ring,baseline,0.0,0.0,0.9974911649905674,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.546213709404332,0.5
+ring,baseline,0.0,0.0,0.9715830930835135,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5399271702767088,0.45
+ring,baseline,0.0,0.0,0.9962565311379995,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5348030476720043,0.45
+ring,baseline,0.0,0.0,0.9792616854089008,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.547874271786107,0.5
+ring,baseline,0.0,0.0,0.9889042053337059,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5348490983617387,0.55
+ring,baseline,0.0,0.0,0.9799053550613896,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5419389494910145,0.5
+ring,baseline,0.0,0.0,0.9979488200522916,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5422479216574247,0.55
+ring,baseline,0.0,0.0,0.9998813493543623,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.551507283965796,0.6
+ring,baseline,0.0,0.0,0.9901780801745506,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5361789989154746,0.5
+ring,baseline,0.0,0.0,0.9624969486296167,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.537631027241545,0.55
+ring,baseline,0.0,0.0,0.9947140186657254,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5414390399571862,0.6
+ring,baseline,0.0,0.0,0.9966242180632084,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5512580667528592,0.55
+ring,baseline,0.0,0.0,0.9857574152994554,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5378994847294645,0.65
+ring,baseline,0.0,0.0,0.9958021291829722,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5306539112811303,0.55
+ring,baseline,0.0,0.0,0.9989534985695151,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5500102127427773,0.35
+ring,baseline,0.0,0.0,0.988898623885983,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.550747839576019,0.6
+ring,baseline,0.0,0.0,0.999699852379907,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5466030234038777,0.55
+ring,baseline,0.0,0.0,0.9769667252149119,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5374138813247339,0.55
+ring,baseline,0.0,0.0,0.9936052582423702,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5407827003471111,0.55
+ring,baseline,0.0,0.0,0.962065187679307,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.538112074049364,0.65
+ring,baseline,0.0,0.0,0.9722561748770137,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5482663303121638,0.5
+ring,baseline,0.0,0.0,0.9778432866550464,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5413381148804041,0.55
+ring,baseline,0.0,0.0,0.9938291636203239,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5377455624896582,0.6
+ring,baseline,0.0,0.0,0.9998646010320262,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5419952712411472,0.7
+ring,baseline,0.0,0.0,0.9681739613678557,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5284083365585374,0.6
+ring,baseline,0.0,0.0,0.9464624695775656,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5450862450524423,0.55
+ring,baseline,0.0,0.0,0.9813242143265685,0.35
+ring,PBRC (social-only fallback),0.0,0.0,0.5385517348657378,0.55
+ring,baseline,0.0,0.0,0.9877695189465834,0.1
+ring,PBRC (social-only fallback),0.0,0.0,0.5390592524070867,0.3
+ring,baseline,0.0,0.0,0.9998732690801138,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5426051648159911,0.3
+ring,baseline,0.0,0.0,0.9984658613615134,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5448761715610647,0.45
+ring,baseline,0.0,0.0,0.9591431299737021,0.7
+ring,PBRC (social-only fallback),0.0,0.0,0.5424683174802902,0.55
+ring,baseline,0.0,1.0,0.9999999999990002,0.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5342699866442641,0.1
+ring,baseline,0.0,0.0,0.944458523449249,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5423686267339812,0.7
+ring,baseline,0.0,0.0,0.992722862148786,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5365631146146322,0.5
+ring,baseline,0.0,0.0,0.9991674397521427,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5525455836149203,0.65
+ring,baseline,0.0,0.0,0.9896597953407102,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5501753278610305,0.55
+ring,baseline,0.0,0.0,0.9990627707493545,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5431617610846838,0.7
+ring,baseline,0.0,0.0,0.9952425540525874,0.8
+ring,PBRC (social-only fallback),0.0,0.0,0.5529626223566085,0.65
+ring,baseline,0.0,0.0,0.9879834512333832,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5495308730000691,0.4
+ring,baseline,0.0,0.0,0.9971410129616137,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5347323852820918,0.3
+ring,baseline,0.0,0.0,0.9970158425254887,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.5431301208944871,0.35
+ring,baseline,0.0,0.0,0.9987620611916703,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5412021803069131,0.4
+ring,baseline,0.0,0.0,0.9994638506249094,0.15
+ring,PBRC (social-only fallback),0.0,0.0,0.539791371410283,0.45
+ring,baseline,0.0,0.0,0.9890515505642197,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.536394534208825,0.5
+ring,baseline,0.0,0.0,0.9734147113357918,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5463246853465878,0.45
+ring,baseline,0.0,0.0,0.9811246518709421,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5396830522533227,0.45
+ring,baseline,0.0,0.0,0.9929658506010168,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.542680835392202,0.45
+ring,baseline,0.0,0.0,0.9959767996833394,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5376960634422113,0.45
+ring,baseline,0.0,0.0,0.9822286342875337,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5427718004175687,0.5
+ring,baseline,0.0,0.0,0.9995664407221907,0.85
+ring,PBRC (social-only fallback),0.0,0.0,0.5413501527454654,0.55
+ring,baseline,0.0,0.0,0.9939947025932728,0.65
+ring,PBRC (social-only fallback),0.0,0.0,0.5427775330791462,0.55
+ring,baseline,0.0,0.0,0.9989092167635499,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5309230737516477,0.45
+ring,baseline,0.0,0.0,0.9795567412309761,0.5
+ring,PBRC (social-only fallback),0.0,0.0,0.5516552819698964,0.55
+ring,baseline,0.0,0.0,0.9980063767895707,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5366935193233668,0.5
+ring,baseline,0.0,0.0,0.9983065469987382,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.5409600478451824,0.4
+ring,baseline,0.0,0.0,0.9874448221620609,0.25
+ring,PBRC (social-only fallback),0.0,0.0,0.5432046942190454,0.35
+ring,baseline,0.0,0.0,0.9974093830997008,0.55
+ring,PBRC (social-only fallback),0.0,0.0,0.5404343174299622,0.55
+ring,baseline,0.0,0.0,0.9775529415608201,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.539073592497624,0.35
+ring,baseline,0.0,0.0,0.9988225474705844,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5378265266807649,0.45
+ring,baseline,0.0,0.0,0.9745694871726387,0.75
+ring,PBRC (social-only fallback),0.0,0.0,0.5367363358978554,0.6
+ring,baseline,0.0,0.0,0.9995789296913781,0.9
+ring,PBRC (social-only fallback),0.0,0.0,0.5373106370793346,0.5
+ring,baseline,0.0,1.0,0.999999857513189,0.0
+ring,PBRC (social-only fallback),0.0,0.0,0.5485933586945761,0.35
+ring,baseline,0.0,0.0,0.9996804321312126,0.2
+ring,PBRC (social-only fallback),0.0,0.0,0.5330825828375163,0.35
+ring,baseline,0.0,0.0,0.9875392569223467,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5385659700715257,0.5
+ring,baseline,0.0,0.0,0.9986876139976012,0.4
+ring,PBRC (social-only fallback),0.0,0.0,0.5350811995108312,0.45
+ring,baseline,0.0,0.0,0.999231321359573,0.6
+ring,PBRC (social-only fallback),0.0,0.0,0.5520583210167828,0.55
+ring,baseline,0.0,0.0,0.94891967241202,0.45
+ring,PBRC (social-only fallback),0.0,0.0,0.539344765310916,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9628202274051398,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.552520627828888,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5401983680179862,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5385041281847941,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9844009554393596,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.546727135089067,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5412328645777345,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9153690275321059,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5330882262339681,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9588560890988514,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5561283367678229,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9985686167087572,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5431543529624625,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9916071351626539,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5522850124795611,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9767920257436111,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5458572465053381,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9673498424898443,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5414169340830204,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.535427622064035,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9918546008105116,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5419301689743244,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5389447046261119,0.7
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.551328085326593,0.6
+ER(p=0.3),baseline,0.0,0.0,0.983760454864376,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5386069787469904,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9750621987923876,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.528174066003087,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9469024346871195,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5430096499867507,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9940352550291006,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5377203166694338,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9636135004577753,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5471897719379382,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999986857,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5399878579043186,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9723171708152787,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5413662283901727,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9848909575166062,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5345929391904564,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9616163940237403,0.75
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5559864882571227,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9930894550230303,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5418637770781958,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9889241477976316,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5512741386972094,0.4
+ER(p=0.3),baseline,0.0,0.0,0.8724939791616991,0.55
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5483573260780602,0.5
+ER(p=0.3),baseline,0.0,1.0,0.999250146574503,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5472817024507792,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9932583649268812,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5421288805206527,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9243179271653243,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5362709784978945,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5476468490013755,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999921941537,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5477217265864966,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5430314981164319,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999995985379936,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5390564539462991,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9774980108253916,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5415373366927242,0.4
+ER(p=0.3),baseline,0.0,1.0,0.99999847633945,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5396225195935006,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999988451,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5372785223742984,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9950560022439285,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5393061263914303,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9759253583902641,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5474962589205618,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5558676543289109,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999975084679,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5388823647152053,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9638757016750414,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5351648260892853,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9769336944754912,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5358947466036331,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5433414325641288,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9767202649489688,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5421436692466475,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9660858028743166,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395840413299812,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9901810298465985,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5474769319996533,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9699075575543021,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.551539523590814,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999982169,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5316011275492456,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9830142751930216,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5406602278026764,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9676769976349405,0.55
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5556571434727081,0.5
+ER(p=0.3),baseline,0.0,0.0,0.860159669690117,0.45
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5443861384059805,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5489115511268976,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9561275850990356,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5368220822262464,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999992352939362,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5419918375180438,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5381291440980462,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9783060507520908,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5414631634425963,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9829676424436581,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5528092104898674,0.4
+ER(p=0.3),baseline,0.0,1.0,0.999969956261423,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5457104781025977,0.55
+ER(p=0.3),baseline,0.0,0.0,0.933797747736078,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5430976552018295,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9409268799974569,0.45
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5389814289157862,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9672008477983619,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.548407793663239,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9677939364364875,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5504556000325657,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9727712558277316,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5487858039544383,0.55
+ER(p=0.3),baseline,0.0,0.0,0.962320519326307,0.75
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5394274393318959,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9730808875541814,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5363085760506112,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9892917037516519,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5544897228478118,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.547279229436679,0.35
+ER(p=0.3),baseline,0.0,0.0,0.8656289467268443,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5491728006023459,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9992547152689413,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5569903555846787,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999999989445,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5340124598316047,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5342671055188344,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5370590544068446,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5428179405591187,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5376272736167058,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9837228925167286,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.532274290435591,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5498337573586158,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9508098226087032,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5449228841705023,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9718499686073867,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5500760928456205,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5498688315845219,0.7
+ER(p=0.3),baseline,1.0,0.0,0.999999999764483,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5349162841190278,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5449060015761491,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999995950655,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5371463367303762,0.45
+ER(p=0.3),baseline,0.0,0.0,0.8952454277186053,0.3
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5316389595405263,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5410163518303142,0.25
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5477224524401466,0.35
+ER(p=0.3),baseline,0.0,0.0,0.8984040581708441,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5447988727838313,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9451837912935084,0.75
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5365801061368319,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9572636170812728,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5404479956051956,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9584449213653057,0.7
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5418622669651244,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9568558901735974,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395502182606469,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9438718610040615,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5411862230164236,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9920288538856085,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5430138656011084,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5381231969773793,0.75
+ER(p=0.3),baseline,0.0,1.0,0.9999999616587194,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5425991080003106,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.535350212138636,0.8
+ER(p=0.3),baseline,0.0,0.0,0.9786870854467595,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5424275431184864,0.6
+ER(p=0.3),baseline,0.0,0.0,0.8458771677134465,0.45
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5434695674345947,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9996146824676213,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5475337594748788,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9447485190270057,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5544238022367799,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9996292765817744,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5408716915125126,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999993881015845,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5440527784428266,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9996235910934441,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5375118200212091,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.550038654041801,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9900708116200108,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5534268143983088,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5476461082761384,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9803892728052425,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5335556792106326,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9939975117062945,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5369823791860878,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9601693768357844,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5479496114036957,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999764737,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5411869293650288,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999741918693,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5354222843734464,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5392007740539364,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9987632197656456,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5467983742420218,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999794737509381,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5586838982322617,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9265420484084007,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5457915414769132,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999987876,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.547911933562543,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5393646932691158,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9791521461195938,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5446601485055393,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9175540184954452,0.3
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5466637946810182,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9866250399489458,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5503056684581408,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999487239167717,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5419972556832982,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5422526119848661,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9925650937359197,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5359048447529499,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9225292635244507,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5399817848838245,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9331380307149306,0.5
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5558378930034109,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9997687254731161,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5385405465645431,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5442238502942343,0.2
+ER(p=0.3),baseline,0.0,1.0,0.999999999997678,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5477373655685379,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9969489637581995,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5456271238478984,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.542132218909481,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5448794175385844,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5349523297822482,0.25
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5478611980249272,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9995002118185814,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.553275913533802,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9960562791337662,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5502209094858689,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9973697381110906,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5299532851495878,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5322076657702839,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9879143716518582,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5362054276980703,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9936501698200635,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5429107792941996,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9731762379596173,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5419372439947234,0.55
+ER(p=0.3),baseline,0.0,0.0,0.8703307312793281,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5387298686456761,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9962767096517547,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5480707232720273,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5382789710788201,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999935123295822,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5419316681648146,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5437681095929154,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9776782900858819,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5307307765179676,0.55
+ER(p=0.3),baseline,0.0,0.0,0.8806997558509057,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5377224928589202,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9909271048456973,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5452391059966033,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9019501861267838,0.7
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5409762108092909,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9997397978032332,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5400699476264753,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9839658847018887,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5377773385295573,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9184657460025983,0.5
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5331638299907987,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9971648971563132,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5423018957654979,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5460967857255473,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9979272906570753,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.543273572604649,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5363082444613829,0.3
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5349525555992944,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5390049964873433,0.3
+ER(p=0.3),baseline,0.0,1.0,0.9999948753689637,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5508976643161076,0.35
+ER(p=0.3),baseline,0.0,0.0,0.999526040045217,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5422100908127482,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5552094568810972,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999760958788807,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5524628822292443,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9107175484466812,0.75
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5450517422907976,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.543596711637182,0.8
+ER(p=0.3),baseline,0.0,0.0,0.9992423243890466,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.54177482528631,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9794121015598243,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5441832499350394,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999987519119345,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5390442663998292,0.6
+ER(p=0.3),baseline,0.0,0.0,0.968208881423317,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.541904435158558,0.45
+ER(p=0.3),baseline,0.0,0.0,0.8850994199786679,0.7
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.539575058820071,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9829007444842809,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5452250078759776,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.542694426959007,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9957606330113393,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5410557892709639,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9996480703448162,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5478595646005467,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9959193180020376,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5391794683858956,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9841821804516091,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5452024202377423,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5319569800396031,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9800704221321561,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.555277798303933,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5328377016197929,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5416166663230848,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9350006360683274,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5456924982053333,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999419916,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5554902827530517,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999619472,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5453081936465948,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5412525477500263,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9876180262890492,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.540634438863251,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999986529737,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5400681843793185,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9663493153897962,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5350801329772744,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999998723866641,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5391610614962199,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5407315306681542,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395868774008363,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5433291421411761,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9747743448806633,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5554665986664904,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5328024534479848,0.7
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5374438666115269,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9520329231461861,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5347375653116135,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9806448087910761,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5562998188132863,0.25
+ER(p=0.3),baseline,0.0,0.0,0.9722967849471822,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5337540291611474,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5457374415466234,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5372588059838938,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9948174683715163,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5432741615680846,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9837337731019368,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5354961835782688,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999785887190378,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5427296858132673,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5482638087853273,0.45
+ER(p=0.3),baseline,0.0,0.0,0.8747048262394264,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5435586636788633,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9872665636788686,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5438605506838888,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9989236950335757,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5332440706883762,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9082222356255066,0.65
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5382479861544083,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9326755608176651,0.7
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5444695297445078,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5473962120961672,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9730461259457354,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5424721502552086,0.65
+ER(p=0.3),baseline,0.0,1.0,0.999999999764268,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5455988300858091,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5412822315323065,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9783784612095274,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5460715900383233,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5313836964956355,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9793907278459452,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5501607114840501,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5382789741607896,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9815929339948205,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5523509500593674,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999966460124,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5387587486627455,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9986081749901954,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5470392231037797,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.546739068824961,0.35
+ER(p=0.3),baseline,0.0,0.0,0.972512461520231,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5400596273283539,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9617516575084549,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5538577027723663,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5511923494596351,0.7
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5347776836594212,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5351299026213646,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9368306874049634,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5385396471580168,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5467445652660845,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999596081637,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5432445972702161,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5398328280215986,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9162612707377485,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.542715252918733,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9755649763369115,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5411807141633396,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5401729697412471,0.7
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5456351532884597,0.45
+ER(p=0.3),baseline,0.0,0.0,0.964085802650532,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5399882648189351,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9942384328345062,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5393019970626975,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9325646652458447,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5391898086051421,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5399670283492487,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5442596958967421,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5376986853892609,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999967623287273,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5503538469600708,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999538138,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5369056388961742,0.25
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5492460279475956,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9983662318931698,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5456650571847323,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9878472755508743,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5521285737844763,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9786801120925279,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5388320958264963,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5372485557416818,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9481000722424572,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5512244518588798,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9391149469384427,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5376741086954733,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9797337762291003,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5468257394899071,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5484993772665112,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9911809955181455,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5359633181344385,0.7
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5330610363397373,0.2
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.540878383681725,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9933824178539531,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5488999728558825,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5403370523613156,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9845321567816802,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.544073507102153,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5390326672001475,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.530621773424283,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9998994762831932,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5409684141965836,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9645244147795863,0.3
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5415527251030181,0.45
+ER(p=0.3),baseline,0.0,1.0,0.999999999830257,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5385898142552654,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5498992390665494,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5422720107937095,0.45
+ER(p=0.3),baseline,1.0,0.0,0.99791259798057,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395579917260882,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9712160722742954,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5402236639498761,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9932080674902357,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5536762807603849,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5439453101314615,0.7
+ER(p=0.3),baseline,1.0,0.0,0.9999997004490926,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5376134319006566,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9994384735534544,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5424177540740907,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999987444516574,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5343415392648778,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9831848074580307,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5428964745760162,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9977620719433553,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5441613992103521,0.55
+ER(p=0.3),baseline,0.0,0.0,0.98175428300545,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5461437730430763,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999979532712,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.544425333661055,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9184769822426568,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5493851223469038,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9810741410888454,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5366669539277086,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5417857434483747,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5511863080108467,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5308215192656889,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5262087091216687,0.25
+ER(p=0.3),baseline,0.0,0.0,0.9692658201958,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5609646805112883,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9920798064228876,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.548454508621065,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5481690953403288,0.35
+ER(p=0.3),baseline,1.0,0.0,0.999906613902169,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5484758064015886,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9640968042505136,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.551939810274941,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9220718810726206,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5310103352203883,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5422460757907372,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999992011732,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5355942953304158,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9919976208242888,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5469402726829383,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5540934106827675,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5472304303109413,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9662457678095979,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5403379320480436,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9546103768855685,0.3
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5456010382195716,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5588404058504596,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5451518362605945,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9811820101790618,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5311480470477743,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9884176719322865,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5420919825790094,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9997288915684868,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5279567918597184,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5399761967574882,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999919853361,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5537334935347871,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9620350347931419,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5499363593224339,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5434882476250344,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5449895526219765,0.25
+ER(p=0.3),baseline,1.0,0.0,0.9994515378669396,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5440119870453154,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999987587,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5456818913938898,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5451788898006001,0.7
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5532822753718221,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5414538065851182,0.3
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5372180722762787,0.25
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5411215602616808,0.8
+ER(p=0.3),baseline,0.0,0.0,0.9836054196197631,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5521461928978453,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9987932705151502,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5354404622460658,0.45
+ER(p=0.3),baseline,0.0,0.0,0.972835953297483,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5427896001324582,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9996564156559682,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5530267946584961,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5402744147288152,0.25
+ER(p=0.3),baseline,0.0,0.0,0.9858377115315611,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5469728403176144,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9891614355379451,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5418950500629993,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9765672259877654,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5449692781200082,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9725510308309318,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5449109624286855,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999988349,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5428471925307736,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5516982778019464,0.65
+ER(p=0.3),baseline,0.0,0.0,0.8331954017358555,0.65
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5492028639836894,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5394060101515853,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5392338849499032,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5396029939092419,0.7
+ER(p=0.3),baseline,1.0,0.0,0.9999770102312434,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5410114911875783,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9755521953599675,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5502786312480562,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.542055626631589,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5470347027983394,0.2
+ER(p=0.3),baseline,0.0,0.0,0.9876917111994652,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5406854820757812,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999991387207933,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.537851635122353,0.6
+ER(p=0.3),baseline,0.0,0.0,0.936729035259711,0.55
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5347067757302055,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999896116345607,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.544105415060917,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5362327521134375,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9778596950203526,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5411302544430591,0.6
+ER(p=0.3),baseline,0.0,1.0,0.999998088222229,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5324981834909762,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9956041668504015,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5500605931707226,0.5
+ER(p=0.3),baseline,0.0,0.0,0.998933398132509,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5309304264126296,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9848032720005928,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5546049686488125,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9956734288580511,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5339258233077138,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9797281330158987,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5499608333035152,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9143818042353908,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5446879514973635,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999987148,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.534258785666883,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5497656751447608,0.75
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5498499215900852,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9684412130532218,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5341904737864935,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9855416096454025,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5446324306687865,0.65
+ER(p=0.3),baseline,0.0,0.0,0.8859291483178289,0.4
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5432361754709037,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9259375371892709,0.4
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5404898187156458,0.55
+ER(p=0.3),baseline,0.0,0.0,0.974540344014509,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5515114697407177,0.6
+ER(p=0.3),baseline,0.0,0.0,0.974788173182955,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5335528996434908,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9666103646564645,0.15
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5340614903942418,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9940590635419829,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5462693633858008,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9607125569619746,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5392924713306605,0.45
+ER(p=0.3),baseline,0.0,0.0,0.994558872622792,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5433693659843205,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.530643121324865,0.7
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.538844104334151,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5555789500126005,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999728818155,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5368989641981805,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5312587993413657,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9348549450464632,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5547320882703138,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9355613778554996,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5505464397576073,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.538053729149961,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5436884607330807,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999897060817616,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5453086583393787,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999580847547511,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5410609046039324,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5410401621269889,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9724871829916161,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5442464807979657,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5389761086362153,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9968782767328126,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5370814311327514,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5433292555602793,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9689171407520659,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5410428669586365,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999986648,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5335282602028039,0.4
+ER(p=0.3),baseline,1.0,0.0,0.999999999133127,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5437834636963361,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9900704319402577,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5450030688104838,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5469365791183955,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999987246,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5351811712194763,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999971687,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5406051121852857,0.75
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5448443338994863,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9984086404397224,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5382276349853042,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.544542654296042,0.3
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5290394935328515,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9996642918791137,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5400137975825567,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9388240939926618,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5397434957025481,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999861876,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5454618481615271,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9124279386291445,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.550480353634456,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5404556423558551,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5398445650159216,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5541646412669384,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.548369770005124,0.25
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5403779185926314,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5388139738116995,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999999998262841,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5405463954303344,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9422346443072595,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5479267431656691,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9943649955455687,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5512453938735924,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9900284630530688,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5506119338589267,0.5
+ER(p=0.3),baseline,0.0,1.0,0.999999713519921,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5600912793569195,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5352143500759555,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9877388842832087,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5401519433269428,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999996282852,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5386741742185351,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9258687110845771,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5424989925636845,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9948888481475278,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5312251623026412,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999949827478,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5510694464868513,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5437837103980778,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5516968237704579,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9609007842746669,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5438417898154081,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999350498,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5316415565337446,0.6
+ER(p=0.3),baseline,0.0,0.0,0.968495263820371,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.538434680839981,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9523553668069041,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5455413593292117,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9992633060011087,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5553132900367593,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5436544669809008,0.65
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5404838661001243,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9438188341955728,0.7
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5468346613258435,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9783009010349755,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5429242998905157,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9853083354283447,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5475797341898188,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5512557289366207,0.7
+ER(p=0.3),baseline,0.0,0.0,0.9219981784798559,0.7
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5365693302206126,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9945813033071105,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5466931094383797,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9721142419198292,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5491639254007616,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5520406660816608,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.534219972018263,0.8
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5415869657740815,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5464039000570138,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5380209960353248,0.3
+ER(p=0.3),baseline,0.0,1.0,0.9999999998735186,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5507363685198944,0.3
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5415247360390643,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5404911807123723,0.35
+ER(p=0.3),baseline,0.0,0.0,0.9662464012372689,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5318861521358477,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9313795916754423,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5481886344552025,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9807214297477158,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5431493607530131,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9990413047311779,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5457973554434986,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9429393343232058,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5505923325776149,0.4
+ER(p=0.3),baseline,0.0,0.0,0.9550440575555823,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5513462501046602,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9970943629511299,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5466007859150476,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9124682257333097,0.35
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5526966372135703,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.542356790516481,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9149029689632293,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.534444144520943,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5451333509732856,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9699566759371472,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5482749196364529,0.45
+ER(p=0.3),baseline,1.0,0.0,0.9999998821377435,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5428863089246299,0.6
+ER(p=0.3),baseline,0.0,0.0,0.9854060647823525,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5569086995087972,0.3
+ER(p=0.3),baseline,0.0,0.0,0.8231831146135609,0.5
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5351449117625335,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9812403728329638,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5414573047410187,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9918230277488158,0.85
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5535901289602443,0.55
+ER(p=0.3),baseline,0.0,0.0,0.981831993485866,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5332944376702119,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.528176293487921,0.65
+ER(p=0.3),baseline,0.0,0.0,0.9171725669717361,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395380074783758,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5397641016661212,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9624037916659203,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5407894387349932,0.55
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.533340153871096,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9952599832431291,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5423397783452817,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9672345622551551,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5355400695390081,0.5
+ER(p=0.3),baseline,0.0,0.0,0.8441100004344351,0.55
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5452268368826642,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5343792280349549,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9996423444513798,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5539718329711358,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999999999986853,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5368665579107861,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5361285308564743,0.65
+ER(p=0.3),baseline,1.0,0.0,0.9999849080703223,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5347743121587694,0.6
+ER(p=0.3),baseline,0.0,0.0,0.995291599812248,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5528806997959128,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9998096433316477,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5310230754431114,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5422527598135539,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9634583799319492,0.8
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5416456713429094,0.55
+ER(p=0.3),baseline,0.0,1.0,0.9999999999516767,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395653147388879,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9915163012156809,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5409264017500413,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9984804950845063,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5435382421853008,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5451548193469381,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5309172829486997,0.55
+ER(p=0.3),baseline,0.0,0.0,0.903291247527908,0.45
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5377938456522035,0.6
+ER(p=0.3),baseline,1.0,0.0,0.9999742217124858,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5417484656722298,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9789053974070064,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.539131548566575,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5434189870599793,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999927207357,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5379176969367091,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5459442912774064,0.55
+ER(p=0.3),baseline,1.0,0.0,0.999999941964177,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5481171718465845,0.6
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5409332054930428,0.35
+ER(p=0.3),baseline,1.0,0.0,0.9972317734782999,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5346838795340465,0.6
+ER(p=0.3),baseline,0.0,0.0,0.8836168058938026,0.25
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5372034373238194,0.4
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5376410435313883,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5399189075532124,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9713923944744207,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5404769365474996,0.45
+ER(p=0.3),baseline,0.0,0.0,0.9587220945960425,0.2
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5397408413638128,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9751922290741477,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5470007159029342,0.35
+ER(p=0.3),baseline,0.0,1.0,0.9984201230162775,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5285743005223715,0.45
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.532859744446782,0.25
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5514610237222823,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9906066806926157,0.1
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5329713614237401,0.3
+ER(p=0.3),baseline,0.0,0.0,0.9942241753104796,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5370263919131787,0.35
+ER(p=0.3),baseline,0.0,0.0,0.8840052956490565,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5323559513001426,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999998659188,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5395176881839134,0.25
+ER(p=0.3),baseline,0.0,0.0,0.9904248460306381,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5405619803369923,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9970479375754513,0.9
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5393751883439949,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5365133760218393,0.25
+ER(p=0.3),baseline,0.0,0.0,0.9910805576237532,0.95
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5444610923633831,0.55
+ER(p=0.3),baseline,0.0,0.0,0.9975423908115191,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5393364907180236,0.4
+ER(p=0.3),baseline,1.0,0.0,0.9982067954945114,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5332985586666057,0.5
+ER(p=0.3),baseline,1.0,0.0,0.9999999999990002,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5263698032048441,0.5
+ER(p=0.3),baseline,0.0,0.0,0.9728853933544336,0.05
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5357517678876866,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999999999990002,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5393625011067622,0.45
+ER(p=0.3),baseline,1.0,0.0,0.999989434273693,1.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5449675494769518,0.5
+ER(p=0.3),baseline,0.0,1.0,0.9999998276719925,0.0
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5570060212878782,0.5
+ER(p=0.3),baseline,0.0,0.0,0.833224845956007,0.6
+ER(p=0.3),PBRC (social-only fallback),0.0,0.0,0.5477434359161736,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5438088512581059,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5428724678382351,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.551436059295148,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5383942803518815,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5476858102800597,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5487415348542726,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5472621986560785,0.6
+complete,baseline,1.0,0.0,0.9999717541559747,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5365277326452481,0.5
+complete,baseline,1.0,0.0,0.9999942139957284,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5296678150504913,0.5
+complete,baseline,0.0,1.0,0.9343846698733931,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5438480669612276,0.55
+complete,baseline,1.0,0.0,0.9999999997719728,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5478886298164288,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5407836397043257,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.541023391328987,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540537376896782,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5490574733142265,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5317007659955035,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5525222306789146,0.25
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5413453769325518,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540965937620929,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5266935615759232,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5364388651882148,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5356640730137383,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5434286155694397,0.4
+complete,baseline,1.0,0.0,0.999999999995343,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5374728399731158,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5473036221449723,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5346650123801655,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5255542387454109,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5418613966270899,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5468203510241452,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5511777827253928,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5395361852068763,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5462665729377627,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5318951098299137,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5478543570237727,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5414224231482324,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5441391847059824,0.8
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.552455449146598,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5465404769533857,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5441292649490352,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5327931821557005,0.7
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5371222588314668,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5467552315890056,0.25
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5478004190864255,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5421100027628335,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5471243006814709,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5557488704868673,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5406656593918995,0.6
+complete,baseline,0.0,1.0,0.9999999999849715,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5418549445202853,0.55
+complete,baseline,0.0,1.0,0.9999999997665802,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5394420403013187,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5343829611740607,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.547416198977708,0.55
+complete,baseline,1.0,0.0,0.9999999999866123,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5344397008082507,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5431547363331161,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5468217764352346,0.45
+complete,baseline,0.0,1.0,0.9992357229239911,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5373502901548532,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.544871414197884,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5426087661300862,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5452507438238865,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5435391072688955,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5250919799971421,0.55
+complete,baseline,0.0,1.0,0.9988633772821128,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5465991866428798,0.45
+complete,baseline,1.0,0.0,0.9999895749204141,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5442583158597214,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.529571506127422,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5391723059314557,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5471303829237485,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5395640682236599,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5450709285139504,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5380575050975407,0.25
+complete,baseline,1.0,0.0,0.9999571366741478,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5385653402268358,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5285144328963371,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5498982937831856,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.533506138880811,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5393793109907195,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5492744760298611,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5623618166700447,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5421143590188766,0.4
+complete,baseline,1.0,0.0,0.9999999999326293,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5375013279377093,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5410141052719147,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5477474253146759,0.75
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5329748335807294,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5509016724949838,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5296989271012229,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5496337040650603,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.53726728662334,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5454840085459692,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5348632275702048,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5480718354830305,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5431077296029792,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5365510079378152,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5365274320949808,0.55
+complete,baseline,0.0,0.0,0.8605351042126456,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5524912504464586,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5338668330469083,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5377748361922722,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.551105285591462,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5355554238315768,0.4
+complete,baseline,1.0,0.0,0.9999436840170389,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5383067354907883,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5499664197460902,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5482503261499627,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5367428601515587,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.543918684241424,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5463886675977173,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5242159488994695,0.55
+complete,baseline,1.0,0.0,0.999998514863105,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5343876808437518,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.552018559091796,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5274931687107508,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5385479627549126,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5486035522165007,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5470824989221355,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.533918985575527,0.7
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5300655528179623,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.544270454533835,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5406634612279866,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5424007128980717,0.55
+complete,baseline,1.0,0.0,0.9999915104329802,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5447520513841047,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5450176457267931,0.7
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5374461164933328,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5407354815296992,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5419549849854666,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5401731287850808,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5382568004070741,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5400730493358241,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5494649662052917,0.35
+complete,baseline,0.0,1.0,0.9996312489441938,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5355856690925457,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5487610991739961,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5433392805901944,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5429954751799746,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5342461195436691,0.45
+complete,baseline,0.0,1.0,0.9999999858040522,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5509307407480787,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5424565271527471,0.55
+complete,baseline,0.0,0.0,0.8965876344854277,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5428065072963554,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5363334333127626,0.6
+complete,baseline,1.0,0.0,0.9999745654259851,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5576344844222995,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5550777717251875,0.7
+complete,baseline,0.0,1.0,0.9999223652466072,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5352332490528767,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5433163919347734,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5360534705463892,0.35
+complete,baseline,0.0,1.0,0.9999999996671631,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5316680454306627,0.4
+complete,baseline,0.0,1.0,0.9974120824991785,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5329667159886149,0.5
+complete,baseline,1.0,0.0,0.9271164925090755,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5420665051347322,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5399010882716988,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.535990021075687,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5443397485755731,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5415318329564974,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5449064002531816,0.7
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5453309772067804,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5362492197625477,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5329298120160638,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5433998449535242,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5495031190232536,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5305021560545551,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5422612602304713,0.5
+complete,baseline,1.0,0.0,0.9999999999833804,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5420955821478877,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5437230477590556,0.6
+complete,baseline,1.0,0.0,0.9999917549238765,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5478249576530504,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5499508129987096,0.3
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5355016041935146,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5430259136750643,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5433422862553655,0.3
+complete,baseline,0.0,1.0,0.9999999200770991,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5408063717070503,0.5
+complete,baseline,1.0,0.0,0.9999999998108292,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5393527169996709,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5335583423990407,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5504037395797605,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5384563785809904,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5365416210687902,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5410445428952424,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5440980186435217,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540886650889046,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5500518127777655,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5497193889529238,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5589937947354183,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5369930710331409,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5351331618560129,0.7
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5492620759743863,0.6
+complete,baseline,0.0,1.0,0.9999999993550052,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5360288199493731,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5500153145559683,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5431281813087219,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5405925901754663,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5470262165713005,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5399063718142791,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5473112174095743,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5429364859977083,0.3
+complete,baseline,0.0,1.0,0.9585851171621809,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5435146952435829,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.530189407646647,0.25
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5528424297100589,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5291533065066395,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5543321656615542,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.538900215752255,0.45
+complete,baseline,1.0,0.0,0.9999999999752271,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5428788206959039,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5299603438783864,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.536587124793643,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5406699510646702,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5457941478675469,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5405822714929787,0.55
+complete,baseline,0.0,1.0,0.9878588429207478,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5425965452343244,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5498410415610976,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5514173434185137,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5428481386132861,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5495632252036822,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5382652378172479,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5395134330719433,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5514603752678943,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.544528645595527,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5599378512726004,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5478075630754966,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5442610463243338,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5398389732703878,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5465776941046211,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5306773532022648,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5458311963892561,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5454612585180374,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5361159145154704,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5429436564581416,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5492550963964389,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5382912998593132,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5557546191996796,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.535725585629967,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5442802730089993,0.3
+complete,baseline,0.0,1.0,0.9999999816142289,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5349272646888253,0.4
+complete,baseline,1.0,0.0,0.9999999880863408,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5514314466829695,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.545266579008123,0.35
+complete,baseline,1.0,0.0,0.9999985165933054,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5391011409862355,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5424656279288765,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5456431867904962,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5377026888248595,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5380936669625477,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5401412214049636,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5408572250580712,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5390287352368714,0.35
+complete,baseline,1.0,0.0,0.9999970621540137,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5367757045832775,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5401861052167118,0.7
+complete,baseline,1.0,0.0,0.9999999467374563,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.549718775910575,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5474823102910706,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5463841336336792,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5464374950070794,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5384834851506983,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5427217290821046,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.531183366596808,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5528954758911792,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5395958100850986,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5502269837268379,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5464201713023236,0.3
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5426601389661144,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5535052370441838,0.45
+complete,baseline,1.0,0.0,0.9999999999953857,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5406188470152438,0.6
+complete,baseline,0.0,1.0,0.9999234037343457,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5362674442939652,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.55068976630377,0.3
+complete,baseline,0.0,0.0,0.7162018945348239,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5449783555213272,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5439004207234884,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5288148158422025,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5423646262466855,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5357644545869455,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5540986056501502,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5350348633588359,0.7
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5434809735785537,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5518034917079719,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.541708837462757,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5508264742576567,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.542195229240838,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540052076928605,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5330459026168106,0.6
+complete,baseline,0.0,1.0,0.9676396764652653,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5498425071535673,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5584262390836408,0.3
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5434223794023754,0.45
+complete,baseline,1.0,0.0,0.9999999845138745,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5350452575448877,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5454778605252109,0.7
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5446281836556548,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5289116063755659,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5431594753316061,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5435306172482495,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5435816909402733,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5469159328410272,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5446876425711443,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5363360080007629,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5526417458573447,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5400519882399314,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5450067494604589,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5417565946356137,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5515420220367767,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5355737565396526,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5401233748517348,0.4
+complete,baseline,1.0,0.0,0.9999990246639475,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5315329208668309,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5462401013754363,0.35
+complete,baseline,0.0,1.0,0.9999807704522782,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5537635373058956,0.5
+complete,baseline,1.0,0.0,0.9999999999580778,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5478543333267086,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5558588953579984,0.4
+complete,baseline,1.0,0.0,0.9998760245920583,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5399963949709735,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5362584508185846,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5533302052086945,0.5
+complete,baseline,0.0,0.0,0.5010473552704086,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5412587658734191,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5429044017847422,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5484085189228164,0.35
+complete,baseline,1.0,0.0,0.9998242678970268,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5442941081582618,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5435437228811572,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5398778110069148,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5505349683494047,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5382735892694742,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5433163221913342,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5408749520869028,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5440029016010721,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5427376071241805,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5321992488779218,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5390315250088713,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5383997049570437,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5342863957488364,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5499318924775339,0.7
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5440312362783437,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5418543351840028,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5419647426197842,0.35
+complete,baseline,0.0,1.0,0.999999926230208,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5553386603322961,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5533326259326765,0.35
+complete,baseline,0.0,1.0,0.9999999996371434,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5485579833091417,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5434274974847152,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5377478497672358,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5377126578193876,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5419324730731616,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5415817867398625,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5423086074083432,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5319681959753919,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5388995398164493,0.25
+complete,baseline,0.0,1.0,0.9999999999936394,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5370026386221659,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5439300905096233,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5479136481763159,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5413182024504997,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5612625444547821,0.3
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5410332223994073,0.6
+complete,baseline,0.0,0.0,0.6148116210222051,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5477078354835796,0.3
+complete,baseline,0.0,1.0,0.9999998282884379,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5542662729730543,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5489326924303337,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5560981130400682,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.545111123077183,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5500220978671172,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5382994522502824,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5334813081435714,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5390657144220073,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5534809666237922,0.4
+complete,baseline,1.0,0.0,0.9999999999953542,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5510421630495236,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5441184575436505,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5388857275008072,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5453547499352852,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5454229600366332,0.55
+complete,baseline,1.0,0.0,0.9999961091140284,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5515468511418248,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5487282106553029,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5443795855317654,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5391303107623052,0.55
+complete,baseline,1.0,0.0,0.9999999999974463,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5441495055016362,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5522830871475578,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.550420335006219,0.5
+complete,baseline,0.0,1.0,0.9999999855165391,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5345568866706985,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5495352731798493,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540097387676247,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.544250636532104,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5376646334917623,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5443212909524071,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.541274585350753,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5581017494225362,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5391365931291128,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5420844584596354,0.35
+complete,baseline,0.0,1.0,0.9900715110266299,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5394133031742018,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5442955530727438,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5408443623860585,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5398953226737481,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5436121235247341,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5487952313833278,0.25
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5456741403052778,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5518382535271501,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5545014407453783,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5425408442089599,0.6
+complete,baseline,0.0,1.0,0.9999999509213934,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5470807885846527,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5480355749637129,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5452064153222885,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5489434755701088,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5328742373374046,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5397658201586634,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540694548720876,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5383323750949758,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5462619217037907,0.4
+complete,baseline,0.0,1.0,0.999791352453751,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.548198252863773,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5325833078792906,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5443602183530067,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5324219155542099,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5403976573153894,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5535963988513675,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5333751212413596,0.6
+complete,baseline,0.0,1.0,0.9999623684689742,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5411495036364105,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5405012450026929,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5388357869970556,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.54021972140179,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5370223108804533,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5498142477437332,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5349795916265395,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5310101657008541,0.45
+complete,baseline,1.0,0.0,0.9999999990167959,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5374173564894023,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5319363300478115,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5386054494125592,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.53954064608514,0.75
+complete,baseline,1.0,0.0,0.9999999773008362,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5393078858903505,0.55
+complete,baseline,0.0,1.0,0.9999996635415958,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5287422154084538,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5400844507263853,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5335561503085758,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5451432393221631,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5299120419463612,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5359877015032233,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5414251764538074,0.3
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.541754333576242,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5398859845659119,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5344757056937249,0.55
+complete,baseline,1.0,0.0,0.9999999998245469,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5448212993722006,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5419391030781239,0.5
+complete,baseline,0.0,1.0,0.99999811050542,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5528889384167842,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5474110284864443,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5496047678170777,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5405602704369274,0.7
+complete,baseline,0.0,1.0,0.9999999650188347,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5461410904843124,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5347762674472848,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5314832951237813,0.35
+complete,baseline,1.0,0.0,0.9999999998662187,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5385306149094408,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5351018506194382,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5311483134843122,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5361088263247609,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5427334154331195,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5398339207387167,0.25
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.553944647048049,0.3
+complete,baseline,0.0,0.0,0.7194940425956687,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5343336930614591,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5473835485817842,0.4
+complete,baseline,1.0,0.0,0.992403904301816,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5398638606561759,0.4
+complete,baseline,0.0,1.0,0.9999732656427472,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5399231341163155,0.5
+complete,baseline,0.0,1.0,0.9999999999094011,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5436464726755444,0.5
+complete,baseline,0.0,1.0,0.9979508120733614,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5464248584392796,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5378263809064604,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5518514433888034,0.5
+complete,baseline,1.0,0.0,0.9999999968808201,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5422904092771171,0.5
+complete,baseline,0.0,0.0,0.5460599011484892,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5420730476240246,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5433899954427742,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5462865930323184,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.542390630837446,0.55
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5332982194885814,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5308564415989638,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5463019565322249,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5525852543634697,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5354463223917996,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5402070484739582,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5342269877989662,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5358328475644933,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5421718496109895,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5487166404101917,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5492991845488653,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5407949896700027,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5495608340545735,0.5
+complete,baseline,1.0,0.0,0.9999999982494969,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5403263942990635,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5394272138644253,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5395079228509333,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5397946025833971,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5432967298030865,0.35
+complete,baseline,0.0,1.0,0.9983962441967102,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.552677392392599,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5529848779856955,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5454523443781301,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5419302273182206,0.65
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5394905006900593,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5587378693852841,0.65
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5364154621286581,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5391170518134432,0.5
+complete,baseline,0.0,1.0,0.9999999736880125,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5472370771739015,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5511286846139692,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.540700568211511,0.4
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5415246085905829,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5395818240314424,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5463702877118966,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5547546758214634,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5462981173219427,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5479631803267462,0.3
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5516342041181554,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5378161778672828,0.4
+complete,baseline,1.0,0.0,0.9999999999924517,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5471792623489297,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5360482593439925,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5435474422874197,0.3
+complete,baseline,1.0,0.0,0.9999561620278701,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5375584330823998,0.65
+complete,baseline,1.0,0.0,0.9999869592073377,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5560783974806245,0.5
+complete,baseline,1.0,0.0,0.9999999959195085,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5445388179203933,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5481008573156498,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5455829672699457,0.45
+complete,baseline,1.0,0.0,0.9999999983897929,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5352536194969997,0.4
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5392851770592078,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5382679465240888,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5413723374977844,0.6
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5359987321270483,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5408161139893426,0.35
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5516816990654496,0.4
+complete,baseline,1.0,0.0,0.9999868192188863,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5399386729007323,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5349065210977687,0.5
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5351206719205288,0.6
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5508203860906298,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5415967488871203,0.45
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5414663264232218,0.45
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5403193421528394,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.536195860898361,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5361838226196431,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5612641128870031,0.35
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5403761570795231,0.5
+complete,baseline,0.0,1.0,0.9999999999990002,0.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5494810811447817,0.55
+complete,baseline,1.0,0.0,0.9999999999990002,1.0
+complete,PBRC (social-only fallback),0.0,0.0,0.5368258770440748,0.7
