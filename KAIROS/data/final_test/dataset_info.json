@@ -1,0 +1,65 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "Eval",
+  "dataset_name": "kairos_eval",
+  "dataset_size": 10732556,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/declare-lab/KAIROS_EVAL@b52512ee438da25abb739681414d5685421ed5c1/data/final_test.json": {
+      "num_bytes": 11431788,
+      "checksum": null
+    }
+  },
+  "download_size": 11431788,
+  "features": {
+    "dataset": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "history": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "protocol": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "timestamp": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "formatted_question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "wrong_options": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "gt_option": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 22164344,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 10732556,
+      "num_examples": 3000,
+      "dataset_name": "kairos_eval"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
