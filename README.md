@@ -6,7 +6,7 @@ This folder is a **self-contained, local reproducibility pipeline** for the pape
 
 It contains:
 
-1. **Fully runnable simulations (no LLM required)** that reproduce the *core theoretical predictions*:
+1. **Fully runnable simulations** that reproduce the *core theoretical predictions*:
    - elimination of **social-only wrong-but-sure cascades** under PBRC enforcement;
    - **token-sufficiency** / persuasion separation (token-equivalent events induce identical enforced updates);
    - topology affects PBRC only via **token arrival times** (distance/diameter effects under flooding);
