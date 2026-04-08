@@ -1,6 +1,6 @@
 # PBRC Reproducibility Package (Simulation + Benchmark Adapters)
 
-This folder is a **self-contained, local reproducibility pipeline** for the paper:
+This folder is a **local reproducibility pipeline** for the paper:
 
 > *Preregistered Belief Revision Contracts (PBRC): a Logic-Based Protocol for Conformity-Resilient Multi-Agent Deliberation*
 
